@@ -1,6 +1,13 @@
 {
-  "version": "0.2.0",
-  "descarga_url": "https://huggingface.co/ddlara01/ultima-releases",
-  "instalador_url": "https://huggingface.co/ddlara01/ultima-releases/resolve/main/Ultima-Setup-0.2.0.exe",
-  "instalador_sha256": "b2116dcea2e93518185795b155f22a89c7c1ffa736dd633640d6e2c6265eb614"
+  "version": "0.2.1",
+  "descarga_url": "https://github.com/ddlara01/ultima-beta/releases/latest",
+  "instalador_url": "https://huggingface.co/ddlara01/ultima-releases/resolve/main/Ultima-Setup-0.2.1.exe",
+  "instalador_sha256": "9d3e7b266e98e5ab796377d9497ed07fa528d4936a0c22b95242b26505f1b205",
+  "novedades": [
+    "Firma criptográfica del auto-update, para verificar que las actualizaciones son auténticas.",
+    "Actualizaciones obligatorias con progreso visible y diálogo de novedades.",
+    "Arreglado: marcar una canción favorita ya no hacía saltar la biblioteca de música al final.",
+    "Arreglado: el contorno del subtítulo tipo karaoke fantasmeaba o pegaba palabras entre líneas."
+  ],
+  "firma": "nXl0knJRAexBCVOezFHzXyM09wQ79wDoZj4vczeh6kHadawtUL/ZlXHx1yUGcXHaw+PFLHfkDxJT4aWOkwiCDQ=="
 }
