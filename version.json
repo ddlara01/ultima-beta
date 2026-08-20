@@ -1,13 +1,14 @@
 {
-  "version": "0.2.1",
+  "version": "0.2.2",
   "descarga_url": "https://github.com/ddlara01/ultima-beta/releases/latest",
-  "instalador_url": "https://huggingface.co/ddlara01/ultima-releases/resolve/main/Ultima-Setup-0.2.1.exe",
-  "instalador_sha256": "9d3e7b266e98e5ab796377d9497ed07fa528d4936a0c22b95242b26505f1b205",
+  "instalador_url": "https://huggingface.co/ddlara01/ultima-releases/resolve/main/Ultima-Setup-0.2.2.exe",
+  "instalador_sha256": "5a902b6ad51de876be25dde2ae867719a6c2919aefd9fe6e813c030d1b445d04",
   "novedades": [
-    "Firma criptográfica del auto-update, para verificar que las actualizaciones son auténticas.",
-    "Actualizaciones obligatorias con progreso visible y diálogo de novedades.",
-    "Arreglado: marcar una canción favorita ya no hacía saltar la biblioteca de música al final.",
-    "Arreglado: el contorno del subtítulo tipo karaoke fantasmeaba o pegaba palabras entre líneas."
+    "Arreglado: la opacidad del contorno de subtítulos ya no afectaba a la letra completa en el video exportado.",
+    "Arreglado: el contorno grueso de los subtítulos ya no se veía pixelado.",
+    "Arreglado: la animación \"Aparición\" de los subtítulos ya no recortaba el texto, ahora crece suave.",
+    "Arreglado: cambiar entre animaciones de subtítulos y volver a \"Fundido\" ya no podía cerrar la app.",
+    "Arreglado: cerrar la ventana de exportación sin cancelar ya no dejaba una exportación colgada en segundo plano."
   ],
-  "firma": "nXl0knJRAexBCVOezFHzXyM09wQ79wDoZj4vczeh6kHadawtUL/ZlXHx1yUGcXHaw+PFLHfkDxJT4aWOkwiCDQ=="
+  "firma": "dDTIQmwApzFUJk3BGiuyvEJBY2TZ5Wc7A2OeNu7slYrjnAAs9kxwj5IS1GPe+MQmEAWDGNtSHaOC4UY/+hPBBQ=="
 }
