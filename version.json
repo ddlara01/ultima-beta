@@ -3,14 +3,11 @@
   "descarga_url": "https://github.com/ddlara01/ultima-beta/releases",
   "instalador_url": "https://huggingface.co/ddlara01/ultima-releases/resolve/main/Ultima-Setup-0.2.3.exe",
   "instalador_sha256": "8a8c47b81b93738d50d3c5ef8e1658d255ed5edc0f713364745e480e0c9bc224",
-  "delta_desde": "0.2.2",
-  "delta_url": "https://huggingface.co/ddlara01/ultima-releases/resolve/main/Ultima-Delta-0.2.2-a-0.2.3.exe",
-  "delta_sha256": "8bdde7230581723d5b28eeae2f3a4224d275036532c7ca02b6bf8b5878c0953c",
   "novedades": [
     "Nuevo: las actualizaciones ahora pueden bajar solo lo que cambió (mucho más rápido) en vez del instalador completo.",
     "Nuevo: aviso con botón para ver el progreso al empezar a descargar una actualización, y opción de actualizar ya o seguir usando la app al terminar.",
     "Arreglado: la barra de progreso de actualización en Ajustes ya no se volvía ilegible, y ahora muestra velocidad y tiempo estimado.",
     "Arreglado: el enlace de 'más información' en el aviso de actualización ya no te manda siempre a una versión vieja."
   ],
-  "firma": "dSGOmvX5SCHA5sUN9YpEFQXBqfTn/9UZ17YmGQ5uKIjh0wxd6rzP0bUFv05kANnziFskCdbbVoWHfkCzj5q5DQ=="
+  "firma": "GnYInN/7feX22qPR01qonyc/WnCyIJbm26Jz+rGiv1ek/wKsO/FiyE3lpqeGEXxtz/lOWPF8/Ot7ct/RrqyyCA=="
 }
